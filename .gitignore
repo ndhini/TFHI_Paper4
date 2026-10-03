@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Checkpoints
+checkpoints/
+*.pth
+
+# Logs
+logs/
+
+# Results
+results/
+
+# Dataset
+data/
+*.zip
+*.pkl
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
